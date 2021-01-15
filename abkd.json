@@ -6,25 +6,25 @@
     "tabs": [
       {
         "title": "Flirt Deutschland",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "http://www.google.com/",
           "usa_new"
         ]
       },
       {
         "title": "Singles in der nähe",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "http://www.google.com/",
           "usa_new"
         ]
       },
       {
         "title": "Flirt Community",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "http://www.google.com/",
           "usa_new"
         ]
       }
