@@ -6,25 +6,25 @@
     "tabs": [
       {
         "title": "Flirt Deutschland",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://inspxtrc.com/?a=16281&c=6647&s1=",
           "usa_new"
         ]
       },
       {
         "title": "Singles in der nähe",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://inspxtrc.com/?a=16281&c=15526&s1=",
           "usa_new"
         ]
       },
       {
         "title": "Flirt Community",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://inspxtrc.com/?a=16281&c=15528&s1=",
           "usa_new"
         ]
       }
