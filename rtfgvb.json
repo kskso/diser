@@ -5,7 +5,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Deutschland",
+        "title": "Flirt France",
         "provider": "webview",
         "arguments": [
           "https://inspxtrc.com/?a=16281&c=6647&s1=",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "title": "Singles in der nähe",
+        "title": "Célibataires à proximité",
         "provider": "webview",
         "arguments": [
           "https://inspxtrc.com/?a=16281&c=7971&s1=",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "title": "Flirt Community",
+        "title": "Communauté Flirt",
         "provider": "webview",
         "arguments": [
           "https://inspxtrc.com/?a=16281&c=11711&s1=",
