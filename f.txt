@@ -5,26 +5,26 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt France",
+        "title": "Flörta Frankrike",
         "provider": "webview",
         "arguments": [
-          "https://inspxtrc.com/?a=16281&c=6647&s1=",
+          "https://inspxtrc.com/?a=16281&c=361&s1=",
           "usa_new"
         ]
       },
       {
-        "title": "Célibataires à proximité",
+        "title": "Singlar i närheten",
         "provider": "webview",
         "arguments": [
-          "https://inspxtrc.com/?a=16281&c=7971&s1=",
+          "https://inspxtrc.com/?a=16281&c=16134&s1=",
           "usa_new"
         ]
       },
       {
-        "title": "Communauté Flirt",
+        "title": "Flörta gemenskap",
         "provider": "webview",
         "arguments": [
-          "https://inspxtrc.com/?a=16281&c=11711&s1=",
+          "https://inspxtrc.com/?a=16281&c=8566&s1=",
           "usa_new"
         ]
       }
