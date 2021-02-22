@@ -5,7 +5,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt France",
+        "title": "Flörta Frankrike",
         "provider": "webview",
         "arguments": [
           "https://inspxtrc.com/?a=16281&c=6647&s1=",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "title": "Célibataires à proximité",
+        "title": "Singlar i närheten",
         "provider": "webview",
         "arguments": [
           "https://inspxtrc.com/?a=16281&c=7971&s1=",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "title": "Communauté Flirt",
+        "title": "Flörta gemenskap",
         "provider": "webview",
         "arguments": [
           "https://inspxtrc.com/?a=16281&c=11711&s1=",
