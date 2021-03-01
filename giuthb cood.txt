@@ -5,26 +5,26 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Deutschland",
-        "provider": "wordpress",
+        "title": "Flörta Frankrike",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://inspxtrc.com/?a=16281&c=361&s1=",
           "usa_new"
         ]
       },
       {
-        "title": "Singles in der n�he",
-        "provider": "wordpress",
+        "title": "Singlar i närheten",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://inspxtrc.com/?a=16281&c=16134&s1=",
           "usa_new"
         ]
       },
       {
-        "title": "Flirt Community",
-        "provider": "wordpress",
+        "title": "Flörta gemenskap",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://inspxtrc.com/?a=16281&c=8566&s1=",
           "usa_new"
         ]
       }
