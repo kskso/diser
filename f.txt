@@ -5,26 +5,26 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flörta Frankrike",
+        "title": "Flørtende Frankrike",
         "provider": "webview",
         "arguments": [
-          "https://inspxtrc.com/?a=16281&c=361&s1=",
+          "https://inspxtrc.com/?a=16281&c=359&s1=",
           "usa_new"
         ]
       },
       {
-        "title": "Singlar i närheten",
+        "title": "Singler i nærheten",
         "provider": "webview",
         "arguments": [
-          "https://inspxtrc.com/?a=16281&c=16134&s1=",
+          "https://inspxtrc.com/?a=16281&c=2697&s1=",
           "usa_new"
         ]
       },
       {
-        "title": "Flörta gemenskap",
+        "title": "Flørtende samfunn",
         "provider": "webview",
         "arguments": [
-          "https://inspxtrc.com/?a=16281&c=8566&s1=",
+          "https://inspxtrc.com/?a=16281&c=21202&s1=",
           "usa_new"
         ]
       }
